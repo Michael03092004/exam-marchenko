@@ -1,0 +1,14 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "description": "Behavioral design patterns in TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "example:observer": "ts-node examples/observer-example.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.12.7"
+  }
+}
