@@ -59,19 +59,7 @@ npm install
 ## Запуск прикладу
 
 ```bash
-npm run example:observer
-```
-
-або
-
-```bash
 npx ts-node examples/observer-example.ts
-```
-
-## Збірка
-
-```bash
-npm run build
 ```
 
 Скомпільовані файли з'являться у папці `dist/`.
